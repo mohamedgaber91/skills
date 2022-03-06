@@ -2547,13 +2547,13 @@ border-bottom: 3px solid var(--main-color);
     }
     .footer p{
         color: #ffffff80;
-        font-size: 20px;
+        font-size: 15px;
         word-spacing: 2px;
         line-height: 35px;
         letter-spacing: 1.2px;
     }
     .footer p span{
-        font-size: 25px;
+        font-size: 17px;
         color: var(--main-color);
     }
     /*end footer*/

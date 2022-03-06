@@ -1717,7 +1717,7 @@ border-bottom: 3px solid var(--main-color);
     .header{
         background-image: url(../imges/test.jpg);
         background-size: cover;
-        height: 849px;
+        height: 883px;
         border-bottom: 2px solid var(--main-color);
         
     }
@@ -1830,9 +1830,9 @@ border-bottom: 3px solid var(--main-color);
         color: white;
     }
     .header .container button{
-        transform: translate(0, 713px);
-        width: 129px;
-        height: 36px;
+        transform: translate(-41px, 725px);
+        width: 172px;
+        height: 55px;
         font-size: 25px;
         background-color: var(--main-color);
         color: white;
@@ -2246,6 +2246,7 @@ border-bottom: 3px solid var(--main-color);
         display: grid;
         grid-template-columns: repeat(auto-fill,minmax(195px,1fr));
         margin-bottom: 65px;
+        margin-left: 10px;
     
     }
     .pricing .pricont .pri1 circle,.pricing .pricont .pri2 circle,.pricing .pricont .pri3 circle,.pricing .pricont .pri4 circle{
@@ -2490,7 +2491,7 @@ border-bottom: 3px solid var(--main-color);
         padding-left: 76px;
         color: #ffffff99;
         font-size: 20px;
-        width: 85%;
+        width: 90%;
     }
     .contact .diva h3{
         margin: 0;
@@ -2532,8 +2533,8 @@ border-bottom: 3px solid var(--main-color);
     .footer{
         background-color: var(--second-color);
         text-align: center;
-        height: 400px;
-        padding: 20px;
+        height: 500px;
+        padding: 30px;
     }
     .footer img{
         width: 173px;

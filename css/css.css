@@ -1717,7 +1717,7 @@ border-bottom: 3px solid var(--main-color);
     .header{
         background-image: url(../imges/test.jpg);
         background-size: cover;
-        height: 758px;
+        height: 849px;
         border-bottom: 2px solid var(--main-color);
         
     }
@@ -1773,6 +1773,7 @@ border-bottom: 3px solid var(--main-color);
         height: 243px;
         display: none;
         transition: var(--main-transition);
+        height: 292px;
     }
     .nav .sid .links::before{
         content: "";
@@ -1810,7 +1811,7 @@ border-bottom: 3px solid var(--main-color);
     }
     .header .container .text{
         text-align: center;
-        top: 372px;
+        top: 462px;
         background-color: #202835d1;
         position: absolute;
         width: 70%;
@@ -1829,7 +1830,7 @@ border-bottom: 3px solid var(--main-color);
         color: white;
     }
     .header .container button{
-        transform: translate(0, 625px);
+        transform: translate(0, 713px);
         width: 129px;
         height: 36px;
         font-size: 25px;
@@ -1881,7 +1882,7 @@ border-bottom: 3px solid var(--main-color);
     /*start wast*/
     .wast{
         text-align: center;
-        height: 234px;
+        height: 281px;
         background-color: var(--second-color);
         padding: 37px;
         border-top: 4px solid var(--main-color);
@@ -1917,7 +1918,7 @@ border-bottom: 3px solid var(--main-color);
         font-size: 25px;
         padding: 20px;
         color: white;
-        transform: translate(0px, -411px);
+        transform: translate(0px, -439px);
     }
     .services .sercont .ser1 h3,.services .sercont .ser2 h3,.services .sercont .ser3 h3,.services .sercont .ser4 h3{
         font-size: 30px;
@@ -1999,7 +2000,7 @@ border-bottom: 3px solid var(--main-color);
     }
     .show p{
         text-align: center;
-        padding: 20px;
+        padding-top: 46px;
         line-height: 30px;
         word-spacing: 2px;
         font-size: 20px;
@@ -2055,6 +2056,7 @@ border-bottom: 3px solid var(--main-color);
         grid-template-columns: repeat(auto-fill,minmax(243px,1fr));
         gap: 28px;
         margin-top: 137px;
+        margin-left: 10px;
     }
     .mocont img{
         width: 90%;
@@ -2118,7 +2120,7 @@ border-bottom: 3px solid var(--main-color);
         transform: translate(0px, 33px);
     }
     .work img{
-        transform: translate(-30px, 270px);
+        transform: translate(-30px, 214px);
         width: 80%;
         right: 0;
         position: absolute;
@@ -2160,7 +2162,6 @@ border-bottom: 3px solid var(--main-color);
     }
     .about .aboutcont1 .box p{
         text-align: center;
-        padding: 43px;
         line-height: 30px;
         word-spacing: 2px;
         font-size: 20px;
@@ -2168,7 +2169,7 @@ border-bottom: 3px solid var(--main-color);
     }
     .about .aboutcont1 .box .div{
         background-color: var(--second-color);
-        height: 150px;
+        height: 188px;
         border-top: 7px solid var(--main-color);
         width: 100%;
         padding-left: 10px;
@@ -2187,7 +2188,7 @@ border-bottom: 3px solid var(--main-color);
     .about .aboutcont2{
         display: grid;
         grid-template-columns: repeat(auto-fill,minmax(286px,1fr));
-        
+        margin-left: -11px;
         gap: 62px;
         margin-top: 59px;
     } 
@@ -2244,7 +2245,6 @@ border-bottom: 3px solid var(--main-color);
     .pricing .pricont{
         display: grid;
         grid-template-columns: repeat(auto-fill,minmax(195px,1fr));
-        margin-left: 20%;
         margin-bottom: 65px;
     
     }
@@ -2354,7 +2354,7 @@ border-bottom: 3px solid var(--main-color);
         line-height: 30px;
         word-spacing: 2px;
         font-size: 20px;
-        line-height: 50px;
+        line-height: 40px;
         color: #00000099;
     }
     .other .othercont{
@@ -2379,7 +2379,7 @@ border-bottom: 3px solid var(--main-color);
         color: var(--main-color);
         padding-top: 18px;
         border-bottom: 2px solid var(--main-color);
-        width: 254px;
+        width: 243px;
         margin-left: 10px;
         padding-bottom: 5px;
     }
@@ -2426,9 +2426,7 @@ border-bottom: 3px solid var(--main-color);
         position: relative;
     }
     .midi h3{
-        font-size: 35px;
-       
-        padding: 10px;
+        font-size: 30px;
         color: var(--main-color);
     }
     .midi p span{
@@ -2439,7 +2437,7 @@ border-bottom: 3px solid var(--main-color);
         color: white;
         font-size: 20px;
         word-spacing: 5px;
-        line-height: 35px;
+        line-height: 25px;
     }
     .midi #email{
         width: 193px;
@@ -2492,7 +2490,7 @@ border-bottom: 3px solid var(--main-color);
         padding-left: 76px;
         color: #ffffff99;
         font-size: 20px;
-        width: 80%;
+        width: 85%;
     }
     .contact .diva h3{
         margin: 0;
@@ -2534,10 +2532,11 @@ border-bottom: 3px solid var(--main-color);
     .footer{
         background-color: var(--second-color);
         text-align: center;
+        height: 400px;
         padding: 20px;
     }
     .footer img{
-    
+        width: 173px;
     }
     .footer h4 a{
         text-decoration: none;
@@ -2549,7 +2548,7 @@ border-bottom: 3px solid var(--main-color);
         color: #ffffff80;
         font-size: 20px;
         word-spacing: 2px;
-        line-height: 25px;
+        line-height: 35px;
         letter-spacing: 1.2px;
     }
     .footer p span{
